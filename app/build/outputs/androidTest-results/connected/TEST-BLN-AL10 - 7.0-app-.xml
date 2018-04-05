@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.scorekeeper.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.01" timestamp="2018-01-17T01:59:18" hostname="localhost">
+  <properties>
+    <property name="device" value="BLN-AL10 - 7.0" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.example.android.scorekeeper.ExampleInstrumentedTest" time="0.0" />
+</testsuite>
